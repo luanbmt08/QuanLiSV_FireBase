@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "23896834933",
+    "firebase_url": "https://qlsv-e776c-default-rtdb.firebaseio.com",
+    "project_id": "qlsv-e776c",
+    "storage_bucket": "qlsv-e776c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23896834933:android:f2fc51da5ddc6268f9493c",
+        "android_client_info": {
+          "package_name": "com.google.qlsv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23896834933-tbbuiqs5m64fhm25ljq41ltumoc5aanr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlJLZ1xgsghkrEWwdiJYoby2LVDdywd48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23896834933-tbbuiqs5m64fhm25ljq41ltumoc5aanr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
